@@ -1,0 +1,44 @@
+{
+  "_from": "ui.js",
+  "_id": "ui.js@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-qzqxytJi8CfLc1siLiqRMZC/6dA=",
+  "_location": "/ui.js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ui.js",
+    "name": "ui.js",
+    "escapedName": "ui.js",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ui.js/-/ui.js-0.1.0.tgz",
+  "_shasum": "ab3ab1cad262f027cb735b222e2a913190bfe9d0",
+  "_spec": "ui.js",
+  "_where": "/Users/koltynpalmer",
+  "author": {
+    "name": "aleechou"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "occlass": "0.1",
+    "ochtmlparser": "0.1"
+  },
+  "deprecated": false,
+  "description": "A jquery using style template engine for javascript",
+  "directories": {
+    "lib": "./lib"
+  },
+  "license": "MIT",
+  "main": "./lib/TemplateCaches.js",
+  "name": "ui.js",
+  "repository": "",
+  "version": "0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "final_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ui.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owlRogue/eligend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owlRogue/eligend/issues"
+  },
+  "homepage": "https://github.com/owlRogue/eligend#readme",
+  "dependencies": {
+    "eligible-node": "^1.1.3",
+    "jquery-ui": "^1.12.1",
+    "tooltip": "^1.6.1"
+  },
+  "devDependencies": {}
+}

@@ -1,6 +1,6 @@
 $(document).ready(function () {
 
-$("#eligibleapi-claim-1500-form").on("load", function () {
+$(document).on("load", function () {
     $( ".eligibleapi:first-child" ).wrap( "<div class='container'></div>" )
   });
 
